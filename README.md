@@ -9,7 +9,7 @@ System Preferences > Desktop & Screen Saver.
 
 ## Example Image
 
-![Desktop and Screen Saver](https://github.com/nixgeek/desktops/raw/master/install.png "Rotate Settings" =300x300)     
+![Desktop and Screen Saver](https://github.com/nixgeek/desktops/raw/master/install.png "Rotate Settings")     
 
 
 
